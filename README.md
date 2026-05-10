@@ -1,4 +1,3 @@
-# Kelab-Muzik-SMK-Kota-Marudu index.html
 <!DOCTYPE html>
 <html>
 <head>
